@@ -1,2 +1,2 @@
-wc -l file \n
-#!/bin/bash \n
+#!/bin/bash
+whoami
