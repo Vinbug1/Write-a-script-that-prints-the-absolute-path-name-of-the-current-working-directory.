@@ -1,2 +1,2 @@
-#who am i  
-#!/bin/bash 
+whoami \n  
+#!/bin/bash \n 
