@@ -1,2 +1,2 @@
-wc -l file
-#!/bin/bash
+wc -l file \n
+#!/bin/bash \n
