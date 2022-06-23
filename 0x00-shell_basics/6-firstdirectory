@@ -1,4 +1,3 @@
 #!/bin/bash
 #mktemp -d -t ci-XXXXXXXXXX
-mktemp -d -t ci-XXXXXXXXXX
-echo $ktemp
+mktemp -d  ci-XXXXXXXXXX
