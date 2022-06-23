@@ -1,2 +1,2 @@
 #!/bin/bash
-mktemp -d  ci-XXXXXXXXXX:directory
+mkdir /tmp/my_first_directory/
